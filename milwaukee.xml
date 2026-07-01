@@ -10948,7 +10948,7 @@
     <offer id="4932399589">
       <article>4932399589</article>
       <price>530</price>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="4932399590">
       <article>4932399590</article>
@@ -26972,7 +26972,7 @@
       <article>4933493301</article>
       <oldprice>13200</oldprice>
       <price>9999</price>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="4933498059">
       <article>4933498059</article>
